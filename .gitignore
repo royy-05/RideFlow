@@ -1,0 +1,10 @@
+# .gitignore
+node_modules/
+.env
+dist/
+build/
+.vscode/
+.gemini/
+*.log
+package-lock.json
+scan-results.json
