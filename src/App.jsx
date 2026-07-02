@@ -7,8 +7,8 @@ import DriverLogin from './pages/DriverLogin'
 import DriverSignup from './pages/DriverSignup'
 import DriverDashboard from './pages/DriverDashboard'
 import DriverLanding from './pages/DriverLanding'
-import RideStatus from './pages/RideStatus'
-import DriverActiveRide from "./pages/DriverActiveRide";
+import RideStatus from './pages/Ridestatus'
+import DriverActiveRide from "./pages/Driveractiveride";
 import { LoadScript } from '@react-google-maps/api'
 
 function App() {
